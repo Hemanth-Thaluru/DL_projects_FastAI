@@ -1,0 +1,1 @@
+## Completing all the exercise of FastAI course 
