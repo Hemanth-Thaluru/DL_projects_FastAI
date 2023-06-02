@@ -8,3 +8,4 @@
 # Ignore Large files or training data config files
 *.jpg
 *jpeg
+*.png
